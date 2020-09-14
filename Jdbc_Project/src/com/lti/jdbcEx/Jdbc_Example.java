@@ -27,6 +27,9 @@ public class Jdbc_Example {
 			
 			System.out.println("Database Disconnected");
 			
+			//trying git
+			System.out.println("This line is just to learn git");
+			
 		}
 		catch(Exception e){
 			e.printStackTrace();
