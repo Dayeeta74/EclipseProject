@@ -30,6 +30,9 @@ public class Jdbc_Example {
 			//trying git
 			System.out.println("This line is just to learn git");
 			
+			//trying git 2
+			System.out.println("This line is just to learn git");
+			
 		}
 		catch(Exception e){
 			e.printStackTrace();
